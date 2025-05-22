@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Film Projesi
 
 
@@ -11,3 +12,8 @@ Bu proje responsive ui' ya sahip bir film sitesi projesidir. İconlar ve hover e
 
 ![film sitesi](https://github.com/user-attachments/assets/ae67dc73-4892-4675-aa22-4d71d74badf7)
 
+=======
+# film-project
+
+<img src=“./film.sitesi.gif”/>
+>>>>>>> 9f15edc (gif eklendi)
