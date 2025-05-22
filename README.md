@@ -1,6 +1,4 @@
-=======
-
-# film-project
+# Film-Project
 
 Bu proje responsive ui' ya sahip bir film sitesi projesidir. İconlar ve hover efektleri kullanılmıştır.
 
@@ -9,6 +7,4 @@ Bu proje responsive ui' ya sahip bir film sitesi projesidir. İconlar ve hover e
 - Html
 - Css
 
-# Ekran Görüntüsü
-
-<img src=“./mygif.gif”/>
+<img src="./mygif.gif"/>
