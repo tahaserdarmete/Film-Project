@@ -7,4 +7,6 @@ Bu proje responsive ui' ya sahip bir film sitesi projesidir. İconlar ve hover e
 - Html
 - Css
 
+# Ekran Görüntüsü
+
 <img src="./mygif.gif"/>
