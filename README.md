@@ -1,12 +1,12 @@
-# FILM PROJECT
+# Film Project
 
 This project is a movie website project with responsive ui. Icons and hover effects are used.
 
-# TECNOLOGIES USED
+# Teknologies Used
 
 - Html
 - Css
 
-# SCREENSHOT
+# ScreenShot
 
 <img src="./mygif.gif"/>
